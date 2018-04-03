@@ -1,2 +1,0 @@
-# FirstRepositoryTest
-Learning the ropes
